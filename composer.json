@@ -1,0 +1,14 @@
+{
+    "name": "Poporoca Brasil",
+    "description": "Site para publicação de Fotos de João Vianey Bentes",
+    "authors": [
+        {
+            "name": "Esp. Paulo Tarciso",
+            "email": "paulotarciso@meta.edu.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "kevinlebrun/slug.php": "1.*"
+    }
+}
